@@ -25,7 +25,7 @@ SECRET_KEY = '8t97&iztaan5j9rl!z8os(&48g==bjnql^5bj)uj$m$d06i+ia'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["for-happy-in.com"]
+ALLOWED_HOSTS = ["kubotake.info"]
 
 
 # Application definition
